@@ -1,0 +1,8 @@
+python-dev-environment-bootstrapper/
+├── LICENSE
+├── README.md
+├── pydev-quickstart.py
+├── requirements.txt
+└── docs/
+    ├── CONTRIBUTING.md
+    └── CHANGELOG.md
